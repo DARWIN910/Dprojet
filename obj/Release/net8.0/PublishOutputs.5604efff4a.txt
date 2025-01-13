@@ -1,0 +1,7 @@
+C:\Users\DARWIN FOKO\source\repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\WebApplication4.exe
+C:\Users\DARWIN FOKO\source\repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\DARWIN FOKO\source\repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\DARWIN FOKO\source\repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\WebApplication4.dll
+C:\Users\DARWIN FOKO\source\repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\WebApplication4.deps.json
+C:\Users\DARWIN FOKO\source\repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\WebApplication4.runtimeconfig.json
+C:\Users\DARWIN FOKO\source\repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\WebApplication4.pdb
